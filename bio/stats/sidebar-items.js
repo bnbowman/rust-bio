@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["combinatorics","Combinations with and without replacement."],["logprobs","Handling log-probabilities."]],"type":[["LogProb","An alias for `f64` to indicate a log-probability."],["Prob","An alias for `f64` to indicate a probability."]]});
